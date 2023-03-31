@@ -1,0 +1,98 @@
+{
+  "6": {
+    "py/object": "Domain.cardClient.CardClient",
+    "IdEntitate": "6",
+    "nume": "fsd",
+    "prenume": "fs",
+    "CNP": "666",
+    "dataNasterii": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "B+UCDA=="
+        ]
+      ]
+    },
+    "dataInregistrarii": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "B+QJDA=="
+        ]
+      ]
+    }
+  },
+  "12": {
+    "py/object": "Domain.cardClient.CardClient",
+    "IdEntitate": "12",
+    "nume": "112",
+    "prenume": "12",
+    "CNP": "122",
+    "dataNasterii": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "B9ICAg=="
+        ]
+      ]
+    },
+    "dataInregistrarii": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "C7cCAg=="
+        ]
+      ]
+    }
+  },
+  "2": {
+    "py/object": "Domain.cardClient.CardClient",
+    "IdEntitate": "2",
+    "nume": "gg",
+    "prenume": "fd",
+    "CNP": "555555",
+    "dataNasterii": "12-02-2021",
+    "dataInregistrarii": "12-04-2021"
+  },
+  "7": {
+    "py/object": "Domain.cardClient.CardClient",
+    "IdEntitate": "7",
+    "nume": "fsd",
+    "prenume": "fs",
+    "CNP": "666",
+    "dataNasterii": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "B9IMDA=="
+        ]
+      ]
+    },
+    "dataInregistrarii": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "B88MDA=="
+        ]
+      ]
+    }
+  }
+}
